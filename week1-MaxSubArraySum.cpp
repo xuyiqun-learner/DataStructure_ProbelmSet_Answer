@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+/* PTA not fully passed ,dont know why */
 
 int MaxSubArraySum(int size, int integer[]) {
     int tempsum = 0;
